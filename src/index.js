@@ -3,6 +3,12 @@
 const { caltotal } = require("./petcounter");
 
 /**
+ * @file index.js is the homepage for this application.
+ * @author Carlos Roberto
+ * @see <a href="https://github.com/caarlos1" target="_blank">GitHub</>
+ */
+
+/**
  * Pet name
  * @type {string}
  */
